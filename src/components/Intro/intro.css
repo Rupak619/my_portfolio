@@ -57,8 +57,16 @@
 }
 
 @media screen and (max-width:480px) {
+    #intro{
+        height: 100%;
+    }
+
+    .introContent{
+        height: 100%; 
+    }
+
     .bg{
-        right: -20vw;
+        right: -50vw;
     }
     
 }
